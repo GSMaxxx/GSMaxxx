@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GSMaxxx
-- 👀 I’m interested in Software engineering, Game Devlopment, Game design, and Software Devlopment
-- 🌱 I’m currently learning Computer Science at Kutztown University
+- 👀 I’m interested in Software engineering, Game Devlopment, Game design
+- 🌱 I’m a Computer Science grad from Kutztown University
 - 💞️ I’m looking to collaborate on n/a
 - 📫 How to reach me - Message me on here
 
